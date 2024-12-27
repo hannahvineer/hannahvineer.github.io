@@ -6,6 +6,16 @@ sitemap: false
 permalink: /
 ---
 
+> *“You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make.”* – Jane Goodall
+
+We are a research team led by Dr Hannah Rose Vineer based at the [University of Liverpool's Institute of Infection, Veterinary and Ecological Sciences](https://www.liverpool.ac.uk/infection-veterinary-and-ecological-sciences/).
+
+**Ecological & Epidemiological Modelling**: We develop machine learning and mathematical models, backed up by empirical data, to inform sustainable parasite and vector-borne disease control in livestock and wildlife.
+
+**Wellbeing and growth**: Our lab is a friendly and inclusive space where we value individuality, career/skills development, and work-life balance.
+
+**Impact**: A genuine drive for impact is at the heart of our research. We're proud to have been supported by, and worked with colleagues from across sectors. Please explore the website for more information.
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -42,15 +52,6 @@ permalink: /
 </div>
 
 
-We are a research team led by Dr Hannah Rose Vineer based at the [University of Liverpool's Institute of Infection, Veterinary and Ecological Sciences](https://www.liverpool.ac.uk/infection-veterinary-and-ecological-sciences/).
-
-**Ecological & Epidemiological Modelling**: We develop machine learning and mathematical models, backed up by empirical data, to inform sustainable parasite and vector-borne disease control in livestock and wildlife.
-
-**Wellbeing and growth**: Our lab is a friendly and inclusive space where we value individuality, career/skills development, and work-life balance.
-
-**Impact**: A genuine drive for impact is at the heart of our research. We're proud to have been supported by, and worked with colleagues from across sectors. Please explore the website for more information.
-
-*“You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make.”* – Jane Goodall
 
 <!--- <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
