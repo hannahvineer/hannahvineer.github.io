@@ -14,29 +14,21 @@ permalink: /
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/reindeer.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/maddie_tick_ML.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/impala.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/TSI.jpg" alt="Slide 4" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -52,15 +44,18 @@ permalink: /
 
 We are a research team led by Dr Hannah Rose Vineer based at the [University of Liverpool's Institute of Infection, Veterinary and Ecological Sciences](https://www.liverpool.ac.uk/infection-veterinary-and-ecological-sciences/).
 
-Ecological & Epidemiological Modelling: We develop machine learning and mathematical models, backed up by empirical data, to inform sustainable parasite and vector-borne disease control in livestock and wildlife.
+**Ecological & Epidemiological Modelling**: We develop machine learning and mathematical models, backed up by empirical data, to inform sustainable parasite and vector-borne disease control in livestock and wildlife.
 
-Wellbeing and growth: Our lab is a friendly and inclusive space where we value individuality, career/skills development, and work-life balance.
+**Wellbeing and growth**: Our lab is a friendly and inclusive space where we value individuality, career/skills development, and work-life balance.
 
-Impact: A genuione drive for impact is at the heart of our research. We're proud to have been supported by, and worked with colleagues from across sectors. Please explore the website for more information.
+**Impact**: A genuine drive for impact is at the heart of our research. We're proud to have been supported by, and worked with colleagues from across sectors. Please explore the website for more information.
 
-<figure class="fourth">
+*“You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make.”* – Jane Goodall
+
+<!--- <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>
+-->
