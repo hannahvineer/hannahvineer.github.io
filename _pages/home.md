@@ -10,7 +10,7 @@ permalink: /
 
 We are a research team led by Dr Hannah Rose Vineer based at the [University of Liverpool's Institute of Infection, Veterinary and Ecological Sciences](https://www.liverpool.ac.uk/infection-veterinary-and-ecological-sciences/).
 
-**Ecological & Epidemiological Modelling**: We develop machine learning and mathematical models, backed up by empirical data, to inform sustainable parasite and vector-borne disease control in livestock and wildlife.
+**Ecological & Epidemiological Modelling**: We develop machine learning and mathematical models to inform sustainable veterinary and conservation practices and policy.
 
 **Wellbeing and growth**: Our lab is a friendly and inclusive space where we value individuality, career/skills development, and work-life balance.
 
