@@ -2,16 +2,16 @@
   image: maddie_tick_ML.png
   description: Excellent work by PhD student Maddie Noll! A comparison of machine learning approaches for tick climate suitability modelling reveals that performance metrics can be misleading. We suggest a best practice workflow for model development and validation.
   authors: Madeleine Noll, Richard Wall, Benjamin Makepeace, Hannah Newbury, Lukasz Adaszek, René Bødker, Agustín Estrada-Pena, Jacques Guillot, Isabel Pereira da Fonseca, Julia Probst, Paul Overgaauw, Christina Strube, Fathiah Zakham, Stefania Zanet, Hannah Rose Vineer 
-  url: https://doi.org/10.1186/s13071-023-05959-y
-  display: Parasites Vectors 16, 384 (2023)
+    url: https://doi.org/10.1186/s13071-023-05959-y
+    display: Parasites Vectors 16, 384 (2023)
   highlight: 1
   
 - title: "Investigating parasite dynamics of migratory ungulates for sustaining healthy populations: Application to critically-endangered saiga antelopes *Saiga tatarica*"
   image: Saiga.JPG
   description: This deserves a spot in my highlights for a number of reasons - fantastic memories of expeditions to the Kazakh steppe, and one of my models applied to inform conservation at the wildlife-livestock interface
   authors: Munib Khanyari, EJ Milner-Gulland, Rodrigo Oyanedel, Hannah Rose Vineer, Navinder J Singh, Sarah Robinson, Albert Salemgareyev, Eric R Morgan
-  url: https://doi.org/10.1016/j.biocon.2022.109465
-  display: Biological Conservation, 266, 109465 (2022)
+    url: https://doi.org/10.1016/j.biocon.2022.109465
+    display: Biological Conservation, 266, 109465 (2022)
   highlight: 1
   
   
