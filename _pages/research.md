@@ -6,17 +6,16 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research (moved)
+# Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+Our overarching goal is to....
 
-Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
+**KGOFA: Revolutionising tick and tick-borne pathogen control.** 
+We are conducting the first spatially unbiased, country-wide survey of tick-borne pathogens in Botswana, and developing the first comprehensive model of African tick-borne pathogen (TBP) transmission. This will revolutionise how we approach livestock tick and tick-borne pathogen control by providing knowledge and tools for proactive management.
 
-Here are some themes and techniques that we currently work on:
+> Funded by the [BBSRC](https://gtr.ukri.org/projects?ref=BB%2FW016621%2F1). Programme developed in consultation with the Botswana Government Ministry for Agriculture's Department of Veterinary Services. In partnership with Prof. Al Darby at the University of Liverpool’s Centre for Genomic Research, Prof. Casper Nyamukondiwa at BIUST (Botswana International University of Science and Technology, Dr Nlingisisi Babayani at ORI (University of Botswana’s Okavango Research Institute) and Dr Kate Evans at Elephants for Africa.
 
-**Scanning tunneling noise spectroscopy (STNS).** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
-
-
+Around 20% of known tick species are found on the African continent, where they heavily parisitise livestock and wildlife, and are responsible for transmitting a range of pathogens to these animals. Tick-borne diseases are ranked amonght the most important livestock parasites and pathogens in Africa, and have recently been implicated in the deaths of tens of thousands of livestock in Botswana. Climate change, spread of invasive ticks, and drug resistance, threaten the sustainable control of ticks and tick-borne disease. Our research directly addresses key knowledge gaps preventing effective control of TBPs in Botswana. We are taking a whole-system approach, bringing together field ecology, genomics, ecological modelling, and disease modelling.
 **Mott physics and high-temperature superconductivity.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
 
 **Nanofabricated "Smart Tips"**.
