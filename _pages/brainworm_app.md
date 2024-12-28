@@ -10,11 +10,12 @@ permalink: /brainworm/
 
 We deliver weather-based predictions of transmission risk to the Norwegian Veterinary Institute on request, to assist reindeer herders with their decision making. This new tool will allow the veterinarians and herders to access predictions on demand.
 
-Below is a development version of our Brainworm app and we welcome user feedback, so please do have a go. We intend to translate the final deployment to Norwegian as a minimum, but for now it is only available in English.
+Scroll down for a development version of our Brainworm app. We are actively seeking user feedback, so please do have a go. We intend to translate the final deployment to Norwegian as a minimum, but for now it is only available in English.
+<p>If the app doesn't load, you can also <a href="https://0q8ner-hannah-vineer.shinyapps.io/livtsja-vikke-app/" target="_blank">open it in a new tab</a>.</p>
 
-## Example output 
+## Example output
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="2000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -45,7 +46,7 @@ Below is a development version of our Brainworm app and we welcome user feedback
 </div>
 
 
-<p>If the app doesn't load, you can also <a href="https://0q8ner-hannah-vineer.shinyapps.io/livtsja-vikke-app/" target="_blank">open it in a new tab</a>.</p>
+## The Brainworm App
 
 <iframe src="https://0q8ner-hannah-vineer.shinyapps.io/livtsja-vikke-app/" 
         width="100%" 
