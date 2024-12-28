@@ -1,8 +1,8 @@
 
 - title: "Predicting the distribution of *Ixodes ricinus* and *Dermacentor reticulatus* in Europe: a comparison of climate niche modelling approaches"
-  image: maddie-tick_ML.png
+  image: maddie_tick_ML.png
   description: Excellent work by PhD student Maddie Noll! A comparison of machine learning approaches for tick climate suitability modelling reveals that performance metrics can be misleading. We suggest a best practice workflow for model development and validation.
-  authors: Madeleine Noll, Richard Wall, Benjamin L. Makepeace, Hannah Newbury, Lukasz Adaszek, René Bødker, Agustín Estrada-Peña, Jacques Guillot, Isabel Pereira da Fonseca, Julia Probst, Paul Overgaauw, Christina Strube, Fathiah Zakham, Stefania Zanet & Hannah Rose Vineer 
+  authors: Madeleine Noll, Richard Wall, Benjamin Makepeace, Hannah Newbury, Lukasz Adaszek, René Bødker, Agustín Estrada-Pena, Jacques Guillot, Isabel Pereira da Fonseca, Julia Probst, Paul Overgaauw, Christina Strube, Fathiah Zakham, Stefania Zanet, Hannah Rose Vineer 
     url: https://doi.org/10.1186/s13071-023-05959-y
     display: Parasites Vectors 16, 384 (2023)
   highlight: 1
