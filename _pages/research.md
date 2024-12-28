@@ -27,7 +27,7 @@ Outbreaks associated with warmer weather have had a devastating impact on some r
 **The Hub: One health Vector-Borne Disease Data Hub**
 Over the next 20 years, risk of vector-borne diseases is predicted to increase in the UK. It is critical that we establish the key networks and platforms needed to coordinate the UK's response to these looming threats. We are developing a data hub to support the sharing of data and findings on vector-borne diseases among the UK researchers and policymakers. Find out more [here](https://news.liverpool.ac.uk/2023/12/13/new-hub-to-gather-data-on-diseases-spread-by-mosquitoes-ticks-and-other-vectors/)
 
-*Funded by the UKRI and Defra. Led by Dr Lauren Cator at Imperial College London. Find out more about The Hub team here: *
+*Funded by the UKRI and Defra. Led by Dr Lauren Cator at Imperial College London. Find out more about The Hub team [here:](https://vbdhub.org/about)*
 
 We are continuously deploying new infrastructure for data sharing and community engagement. You can view and provide feedback on early releases at [vbdhub.org](https://vbdhub.org/). 
 ![]({{ site.url }}{{ site.baseurl }}/images/ixodes.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
