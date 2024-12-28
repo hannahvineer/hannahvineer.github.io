@@ -50,7 +50,7 @@ Scroll down for a development version of our Brainworm app. We are actively seek
 
 <iframe src="https://0q8ner-hannah-vineer.shinyapps.io/livtsja-vikke-app/" 
         width="100%" 
-        height="1600" 
+        height="800" 
         frameborder="2" 
-        scrolling="no">
+        scrolling="yes">
 </iframe>
