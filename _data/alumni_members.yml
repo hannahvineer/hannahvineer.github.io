@@ -16,4 +16,20 @@
   email: 
   number_educ: 0
   education1: 
+  
+- name: Cassie McGregor
+  photo: rock.jpg
+  info: PhD student (University of Edinburgh)
+  duration:
+  email: 
+  number_educ: 0
+  education1: 
+  
+- name: Sien Verschave
+  photo: rock.jpg
+  info: PhD student (Gent University)
+  duration:
+  email: 
+  number_educ: 0
+  education1: 
 
