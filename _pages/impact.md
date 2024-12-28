@@ -25,7 +25,7 @@ Access the alerts [here](https://www.scops.org.uk/forecasts/nematodirus-forecast
 <br>
 **The Hub**
 
-![]({{ site.url }}{{ site.baseurl }}/images/mosquito.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/mosquito.jpg){: style="width: 350px; float: right; margin: 0px  10px"}
 The One Health Vector-Borne Diseases Hub is a research hub for data sharing, exploration, and collaboration on vector-borne diseases both in the UK and globally.
 Access The Hub at [vbdhub.org](https://vbdhub.org)
 <br>
@@ -38,7 +38,7 @@ Access The Hub at [vbdhub.org](https://vbdhub.org)
 <br>
 **Brainworm app**
 
-![]({{ site.url }}{{ site.baseurl }}/images/reindeer.jpg){: style="width: 250px; float: right; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/reindeer.jpg){: style="width: 350px; float: right; margin: 0px  10px"}
 *Under active development*
 
 We deliver weather-based predictions of transmission risk to the Norwegian Veterinary Institute on request, to assist reindeer herders with their decision making. This new tool will allow the veterinarians and herders to access predictions on demand. 
