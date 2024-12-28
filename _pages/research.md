@@ -11,14 +11,15 @@ permalink: /research/
 Our overarching goal is to....
 
 **Climate-sick reindeer**
-In response to devastating brainworm outbreaks, we developed a phenological model to inform reindeer management and veterinary care. Spatial predictions are delivered to the National Veterinary Institute to assess weather-dependent risk. The information is cascaded to Sámi reindeer herders ahead of, and during high risk periods. Our models are under continuous development and deployment, in consultation with veterinarians and herders, to enable rapid response.
+![]({{ site.url }}{{ site.baseurl }}/images/TSI.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
+
+In response to devastating brainworm outbreaks, we developed a phenological model of transmission risk to inform reindeer management and veterinary care. Spatial predictions are delivered to the National Veterinary Institute to assess weather-dependent risk. The information is cascaded to Sámi reindeer herders ahead of, and during high risk periods. Our models are under continuous development and deployment, in consultation with veterinarians and herders, to enable rapid response.
 
 *Funded by the BBSRC and Research Council of Norway. In partnership with Dr Rebecca Davidson and colleagues at the Norwegian Veterinary Institute, and Sámi reindeer herders who genorously give their time and data to inform model deployment.*
 
 Reindeer herding is central to indigenous Sámi culture, identity, and food security. Sustainable herding practices with high levels of animal welfare require up to date knowledge about disease and changing disease risk throughout the year. Movement of herds between seasonal grazing areas exposes them to a potentially wide range of pathogens. Some, including the parasite *Elaphostrongylus rangiferi* (brainworm, causing elaphostrongylosis), are sensitive to environmental factors including temperature and precipitation. Under the right conditions, explosive development of infectious larvae in the snail intermediate hosts can result in large disease outbreaks in reindeer.
 
 Outbreaks associated with warmer weather have had a devastating impact on some reindeer herds in recent years and the herders need advice on treatment and on alternative strategies to prevent future outbreaks. Treatment options are limited and time-sensitive – once clinical signs are seen, it is too late. Models that predict exposure of reindeer to infection could allow herders to identify the optimum timing of treatment, movement to new pasture to avoid infection, or altered slaughtering strategies, thus reducing the risk and impact of outbreaks significantly. 
-![]({{ site.url }}{{ site.baseurl }}/images/TSI.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
 
 
 **KGOFA: Revolutionising tick and tick-borne pathogen control.** 
