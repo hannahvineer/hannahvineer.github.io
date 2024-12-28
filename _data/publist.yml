@@ -27,7 +27,7 @@
 
 - title: "Interactive African tick mapping"
   image: avar.tif
-  description: We have coupled machine learning models of tick environmental suitability with indicators of human and livestock vulnerability to exposure. An interactive platform for the maps and corresponding uncertainty indicators are being developed to allow veterinarians and policy-makers to assess and develop strategies to mitigrate risks in their region. 
+  description: We have coupled machine learning models of tick environmental suitability with indicators of human and livestock vulnerability to exposure. An interactive platform for the maps and corresponding uncertainty indicators is being developed to allow veterinarians and policy-makers to assess and develop strategies to mitigrate risks in their region. 
   authors: Hannah Rose Vineer, Nlingisisi Babayani, Casper Nyamukondiwa, Madeleine Noll, Adam Fisher, Luis Neves, Andeliza Smit, Virgil Joseph, Precious Mpofu
   link:
     url: https://hannahvineer.github.io/impact/
