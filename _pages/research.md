@@ -11,7 +11,7 @@ permalink: /research/
 Our overarching goal is to....
 
 **Climate-sick reindeer**
-![]({{ site.url }}{{ site.baseurl }}/images/TSI.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/TSI.jpg){: style="width: 250px; float: right; margin: 0px  10px"}
 
 In response to devastating brainworm outbreaks, we developed a phenological model of transmission risk to inform reindeer management and veterinary care. Spatial predictions are delivered to the National Veterinary Institute to assess weather-dependent risk. The information is cascaded to Sámi reindeer herders ahead of, and during high risk periods. Our models are under continuous development and deployment, in consultation with veterinarians and herders, to enable rapid response.
 
@@ -22,6 +22,14 @@ Reindeer herding is central to indigenous Sámi culture, identity, and food secu
 Outbreaks associated with warmer weather have had a devastating impact on some reindeer herds in recent years and the herders need advice on treatment and on alternative strategies to prevent future outbreaks. Treatment options are limited and time-sensitive – once clinical signs are seen, it is too late. Models that predict exposure of reindeer to infection could allow herders to identify the optimum timing of treatment, movement to new pasture to avoid infection, or altered slaughtering strategies, thus reducing the risk and impact of outbreaks significantly. 
 
 
+**The Hub: One health Vector-Borne Disease Data Hub**
+Over the next 20 years, risk of vector-borne diseases is predicted to increase in the UK. It is critical that we establish the key networks and platforms needed to coordinate the UK's response to these looming threats. We are developing a data hub to support the sharing of data and findings on vector-borne diseases among the UK researchers and policymakers. Find out more [here](https://news.liverpool.ac.uk/2023/12/13/new-hub-to-gather-data-on-diseases-spread-by-mosquitoes-ticks-and-other-vectors/)
+
+*Funded by the UKRI and Defra. Led by Dr Lauren Cator at Imperial College London. Find out more about The Hub team here: *
+
+We are continuously deploying new infrastructure for data sharing and community engagement. You can view and provide feedback on early releases at [vbdhub.org](https://vbdhub.org/). 
+
+
 **KGOFA: Revolutionising tick and tick-borne pathogen control.** 
 We are conducting the first spatially unbiased, country-wide survey of tick-borne pathogens in Botswana, and developing the first comprehensive model of African tick-borne pathogen (TBP) transmission. This will revolutionise how we approach livestock tick and tick-borne pathogen control by providing knowledge and tools for proactive management.
 
@@ -29,5 +37,10 @@ We are conducting the first spatially unbiased, country-wide survey of tick-born
 
 Around 20% of known tick species are found on the African continent, where they heavily parisitise livestock and wildlife, and are responsible for transmitting a range of pathogens to these animals. Tick-borne diseases are ranked amonght the most important livestock parasites and pathogens in Africa, and have recently been implicated in the deaths of tens of thousands of livestock in Botswana. Climate change, spread of invasive ticks, and drug resistance, threaten the sustainable control of ticks and tick-borne disease. Our research directly addresses key knowledge gaps preventing effective control of TBPs in Botswana. We are taking a whole-system approach, bringing together field ecology, genomics, ecological modelling, and disease modelling.
 
+
+**Sustainable use of livestock veterinary medicines**
+Our SCOPE (Sustainable Control of Parasites in Sheep) and BRACE (Biosecurity and Roundworm Advice for Cattle Enterprises) projects are developing tools to shape national policy on integrated parasite control, tackling drug-resistance and the environmental impacts of residues and productivity losses.
+
+*Funded by the BBSRC and Defra. Programme developed in partnership with Lesley Stubbings at SCOPS (Sustainable Control of Parasites in Sheep), Dr Mike Glover at Torch Vets, and farmers who gave their time and confided in me the challenges they face. In collaboration with Alastair Tollett, Dr John Graham-Brown and Farm Animal Practice colleagues at the University of Liverpool, Prof. John Gilleard at the University of Calgary, Dr Dave Bartley and Dr Lynsey Melville at the Moredun Research Institute.*
 
 ### ... and more.
