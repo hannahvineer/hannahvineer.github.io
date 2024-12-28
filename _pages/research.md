@@ -10,36 +10,23 @@ permalink: /research/
 
 Our overarching goal is to....
 
+**Climate-sick reindeer**
+In response to devastating brainworm outbreaks, we developed a phenological model to inform reindeer management and veterinary care. Spatial predictions are delivered to the National Veterinary Institute to assess weather-dependent risk. The information is cascaded to Sámi reindeer herders ahead of, and during high risk periods. Our models are under continuous development and deployment, in consultation with veterinarians and herders, to enable rapid response.
+
+*Funded by the BBSRC and Research Council of Norway. In partnership with Dr Rebecca Davidson and colleagues at the Norwegian Veterinary Institute, and Sámi reindeer herders who genorously give their time and data to inform model deployment.*
+
+Reindeer herding is central to indigenous Sámi culture, identity, and food security. Sustainable herding practices with high levels of animal welfare require up to date knowledge about disease and changing disease risk throughout the year. Movement of herds between seasonal grazing areas exposes them to a potentially wide range of pathogens. Some, including the parasite *Elaphostrongylus rangiferi* (brainworm, causing elaphostrongylosis), are sensitive to environmental factors including temperature and precipitation. Under the right conditions, explosive development of infectious larvae in the snail intermediate hosts can result in large disease outbreaks in reindeer.
+
+Outbreaks associated with warmer weather have had a devastating impact on some reindeer herds in recent years and the herders need advice on treatment and on alternative strategies to prevent future outbreaks. Treatment options are limited and time-sensitive – once clinical signs are seen, it is too late. Models that predict exposure of reindeer to infection could allow herders to identify the optimum timing of treatment, movement to new pasture to avoid infection, or altered slaughtering strategies, thus reducing the risk and impact of outbreaks significantly. 
+![]({{ site.url }}{{ site.baseurl }}/images/TSI.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
+
+
 **KGOFA: Revolutionising tick and tick-borne pathogen control.** 
 We are conducting the first spatially unbiased, country-wide survey of tick-borne pathogens in Botswana, and developing the first comprehensive model of African tick-borne pathogen (TBP) transmission. This will revolutionise how we approach livestock tick and tick-borne pathogen control by providing knowledge and tools for proactive management.
 
-> Funded by the [BBSRC](https://gtr.ukri.org/projects?ref=BB%2FW016621%2F1). Programme developed in consultation with the Botswana Government Ministry for Agriculture's Department of Veterinary Services. In partnership with Prof. Al Darby at the University of Liverpool’s Centre for Genomic Research, Prof. Casper Nyamukondiwa at BIUST (Botswana International University of Science and Technology, Dr Nlingisisi Babayani at ORI (University of Botswana’s Okavango Research Institute) and Dr Kate Evans at Elephants for Africa.
+*Funded by the [BBSRC](https://gtr.ukri.org/projects?ref=BB%2FW016621%2F1). Programme developed in consultation with the Botswana Government Ministry for Agriculture's Department of Veterinary Services. In partnership with Prof. Al Darby at the University of Liverpool’s Centre for Genomic Research, Prof. Casper Nyamukondiwa at BIUST (Botswana International University of Science and Technology, Dr Nlingisisi Babayani at ORI (University of Botswana’s Okavango Research Institute) and Dr Kate Evans at Elephants for Africa.*
 
 Around 20% of known tick species are found on the African continent, where they heavily parisitise livestock and wildlife, and are responsible for transmitting a range of pathogens to these animals. Tick-borne diseases are ranked amonght the most important livestock parasites and pathogens in Africa, and have recently been implicated in the deaths of tens of thousands of livestock in Botswana. Climate change, spread of invasive ticks, and drug resistance, threaten the sustainable control of ticks and tick-borne disease. Our research directly addresses key knowledge gaps preventing effective control of TBPs in Botswana. We are taking a whole-system approach, bringing together field ecology, genomics, ecological modelling, and disease modelling.
-**Mott physics and high-temperature superconductivity.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
 
-**Nanofabricated "Smart Tips"**.
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
-One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
-
-**Josephson STM.** Josephson STM has the ability to gain insight into spatial variations of the order parameter, or superfluid density. We have managed to, for the first time, use JSTM with atomic resolution on a quantum material.
-We have used atomic-resolution Josephson scanning tunneling microscopy to reveal a strongly inhomogeneous superfluid in the iron-based superconductor FeTe0.55Se0.45. The results and their implications are published in Nature.
-
-We also detected and investigated a quite particular YSR state in the same material.
-
-**Ultra-stable SI-STM instrument.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}
-For SI-STM, having the most stable STM head is key. We have used finite element simulations, good choices in material science, and craftsmanship to build the most stable STM head in the world, to our knowledge. See publication in RSI.
-
-
-**Strange Metals.** The strange metal phase might be the most mysterious phase of high-temperature superconductors. Here, the electrical resistivity grows linearly with temperature T in large areas of the phase diagram, with a mean free path that diminishes to a fraction of the interatomic distance. T-linear resistivity is often associated with quantum critical points and marginal-Fermi-liquid physics. In strange metals, the mystery seems to go even further: we deal with something that looks like a quantum critical phase over an extended range of the phase diagram instead of cumulating in a point. There exists no consistent theory for strange metals, leading to more adventurous new approaches including the holographic theories that use insights from gravity to explain strange metals (a recent textbook on this was written by our colleagues at Leiden University, Schalm and Zaanen).
-We are part of the 'Strange Metal consortium NL' that includes the groups of Hussey, Golden, van Heumen, Zaanen, Schalm, Stoof and Vandoren. 
-
-**Magnetic fluctuations and electron spin resonance.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 70%; float: center; margin: 10px"}
-
-**Twisted bilayer graphene and other material with super-periodicities.**
-We have proposed that artificial super-periodicities can lead to improved superconductivity, both because of increased density of states and because of phase space arguments (see image from our SciPost publication below). Perhaps for different reasons, twisted bilayer graphene has been shown to superconduct! We are investigate this material with the groups of Efetov, Baumberger, and van der Molen.
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 
 ### ... and more.
