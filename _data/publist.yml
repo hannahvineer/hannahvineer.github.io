@@ -1,19 +1,35 @@
-- title: "Predicting the distribution of *Ixodes ricinus* and *Dermacentor reticulatus* in Europe: a comparison of climate niche modelling approaches"
-  image: maddie_tick_ML.png
-  description: Excellent work by PhD student Maddie Noll! A comparison of machine learning approaches for tick climate suitability modelling reveals that performance metrics can be misleading. We suggest a best practice workflow for model development and validation.
-  authors: Madeleine Noll, Richard Wall, Benjamin Makepeace, Hannah Newbury, Lukasz Adaszek, René Bødker, Agustín Estrada-Pena, Jacques Guillot, Isabel Pereira da Fonseca, Julia Probst, Paul Overgaauw, Christina Strube, Fathiah Zakham, Stefania Zanet, Hannah Rose Vineer 
+- title: "SCOPS Nematodirus alerts"
+  image: nematodirus.jpeg
+  description: Dynamic hazard maps for potentially deadly *Nematodirus battus* transmission to young lambs. Updated daily during the season of risk using real-time weather data. 
+  authors: Hannah Rose Vineer, Eric R. Morgan, Lesley A. Stubbings
   link:
-    url: https://doi.org/10.1186/s13071-023-05959-y
-    display: Parasites & Vectors 16, 384 (2023)
+    url: https://www.scops.org.uk/forecasts/nematodirus-forecast/
+    display: Link to web page
   highlight: 1
   
-- title: "Investigating parasite dynamics of migratory ungulates for sustaining healthy populations: Application to critically-endangered saiga antelopes *Saiga tatarica*"
-  image: Saiga.JPG
-  description: This deserves a spot in my highlights for a number of reasons - fantastic memories of expeditions to the Kazakh steppe, and one of my models applied to inform conservation at the wildlife-livestock interface
-  authors: Munib Khanyari, EJ Milner-Gulland, Rodrigo Oyanedel, Hannah Rose Vineer, Navinder J Singh, Sarah Robinson, Albert Salemgareyev, Eric R Morgan
+- title: "One Health VBD Data Hub"
+  image: mosquito.jpeg
+  description: The One Health Vector-Borne Diseases Hub is a research hub for data sharing, exploration, and collaboration on vector-borne diseases both in the UK and globally.
+  authors: Lauren Cator, Will Pearse, Samraat Pawar, Hannah Rose Vineer, Christopher Sanders, Marion England, Sarah Kelly, Steven White, Robert Jones, Stanislav Modrak, Francis Windram
   link:
-    url: https://doi.org/10.1016/j.biocon.2022.109465
-    display: Biological Conservation, 266, 109465 (2022)
+    url: https://vbdhub.org
+    display: vbdhub.org
   highlight: 1
   
-  
+- title: "Brainworm app"
+  image: reindeer.jpeg
+  description: We deliver weather-based predictions of transmission risk to the Norwegian Veterinary Institute on request, to assist reindeer herders with their decision making. This new tool will allow the veterinarians and herders to access predictions on demand. 
+  authors: Hannah Rose Vineer, Rebecca Davidson, Diana Williams, Torril Mork
+  link:
+    url: https://hannahvineer.github.io/impact/
+    display: Under active development
+  highlight: 1
+
+- title: "Interactive African tick mapping"
+  image: avar.tif
+  description: We have coupled machine learning models of tick environmental suitability with indicators of human and livestock vulnerability to exposure. An interactive platform for the maps and corresponding uncertainty indicators are being developed to allow veterinarians and policy-makers to assess and develop strategies to mitigrate risks in their region. 
+  authors: Hannah Rose Vineer, Nlingisisi Babayani, Casper Nyamukondiwa, Madeleine Noll, Adam Fisher, Luis Neves, Andeliza Smit, Virgil Joseph, Precious Mpofu
+  link:
+    url: https://hannahvineer.github.io/impact/
+    display: Under active development
+  highlight: 1

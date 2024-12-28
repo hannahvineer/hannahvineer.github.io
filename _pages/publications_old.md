@@ -3,7 +3,7 @@ title: "Vineer Lab - Publications"
 layout: gridlay
 excerpt: "Vineer Lab -- Publications."
 sitemap: false
-permalink: /publications/
+permalink: /publications_old/
 ---
 
 
